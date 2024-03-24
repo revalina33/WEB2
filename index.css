@@ -3,8 +3,8 @@
   overflow: hidden; 
   margin-top: 40px;
   margin-left: 90px;
-  width: 400px; 
-  height: 400px; 
+  width: 300px; 
+  height: 300px; 
 }
 
 
@@ -20,10 +20,6 @@
   margin-right: 10px; 
 }
 
-.lomba{
-  width: 370px; 
-  height: 207px; 
-}
 
 .card {
   transition: transform 0.5s ease;
